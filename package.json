@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo",
+  "main": "src/index.js",
+  "scripts": {
+    "callback":"node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresborja6/asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": " (MIT)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresborja6/asincronismo/issues"
+  },
+  "homepage": "https://github.com/andresborja6/asincronismo#readme"
+}
